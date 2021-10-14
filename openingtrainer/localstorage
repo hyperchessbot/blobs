@@ -1,39 +1,9 @@
-["bookposition/atomic/rnbqkb1r/pp1pp1pp/2p2p1n/8/3P2P1/2N2N2/PPP1PP1P/R1BQKB1R b KQkq - 0 4","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkb1r/pp1pp1pp/2p2p1n/8/3P2P1/2N2N2/PPP1PP1P/R1BQKB1R b KQkq - 0 4\",\n  \"moves\": {\n    \"e6\": {\n      \"san\": \"e6\",\n      \"rating\": 10\n    }\n  }\n}"]
+["board/history","[\n  {\n    \"genSan\": \"*\",\n    \"genUci\": \"*\",\n    \"prevFen\": null,\n    \"fen\": \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\",\n    \"isSelected\": false,\n    \"selected\": \"historysan histpassive unrated\"\n  },\n  {\n    \"genSan\": \"Nf3\",\n    \"genUci\": \"g1f3\",\n    \"prevFen\": \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\",\n    \"fen\": \"rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1\",\n    \"isSelected\": false,\n    \"selected\": \"historysan histpassive unrated\"\n  },\n  {\n    \"genSan\": \"f6\",\n    \"genUci\": \"f7f6\",\n    \"prevFen\": \"rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1\",\n    \"fen\": \"rnbqkbnr/ppppp1pp/5p2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2\",\n    \"isSelected\": false,\n    \"selected\": \"historysan histpassive unrated\"\n  },\n  {\n    \"genSan\": \"e3\",\n    \"genUci\": \"e2e3\",\n    \"prevFen\": \"rnbqkbnr/ppppp1pp/5p2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2\",\n    \"fen\": \"rnbqkbnr/ppppp1pp/5p2/8/8/4PN2/PPPP1PPP/RNBQKB1R b KQkq - 0 2\",\n    \"isSelected\": true,\n    \"selected\": \"historysan histactive unrated\"\n  }\n]"]
 --------------------
 ["bookposition/atomic/rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1\",\n  \"moves\": {\n    \"f6\": {\n      \"san\": \"f6\",\n      \"rating\": 10\n    }\n  }\n}"]
 --------------------
-["bookposition/atomic/rnbqkbnr/pp1pp1pp/2p2p2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 0 3","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/pp1pp1pp/2p2p2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 0 3\",\n  \"moves\": {\n    \"d4\": {\n      \"san\": \"d4\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rnbqkbnr/ppppp1pp/5p2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/ppppp1pp/5p2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2\",\n  \"moves\": {\n    \"Nc3\": {\n      \"san\": \"Nc3\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rnbqkb1r/ppppp1pp/5p1n/8/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 2 3","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkb1r/ppppp1pp/5p1n/8/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 2 3\",\n  \"moves\": {\n    \"g4\": {\n      \"san\": \"g4\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["board/history","[\n  {\n    \"genSan\": \"*\",\n    \"genUci\": \"*\",\n    \"fen\": \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\",\n    \"selected\": \"histactive\"\n  }\n]"]
---------------------
-["bookposition/atomic/rnbqkbnr/pp1pp1pp/2p2p2/8/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 0 3","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/pp1pp1pp/2p2p2/8/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 0 3\",\n  \"moves\": {\n    \"d6\": {\n      \"san\": \"d6\",\n      \"rating\": 9\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rnbqkbnr/pp2p1pp/2pp1p2/8/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 4","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/pp2p1pp/2pp1p2/8/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 4\",\n  \"moves\": {\n    \"Ng5\": {\n      \"san\": \"Ng5\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rn1qkbnr/pp2p1pp/2pp4/8/3PP1b1/2N5/PPP2PPP/R1BQKB1R w KQkq - 1 6","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rn1qkbnr/pp2p1pp/2pp4/8/3PP1b1/2N5/PPP2PPP/R1BQKB1R w KQkq - 1 6\",\n  \"moves\": {\n    \"f3\": {\n      \"san\": \"f3\",\n      \"rating\": 10\n    }\n  }\n}"]
+["bookposition/atomic/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\",\n  \"moves\": {\n    \"Nf3\": {\n      \"san\": \"Nf3\",\n      \"rating\": 10\n    }\n  }\n}"]
 --------------------
 ["board/selectedvariant","\"atomic\""]
 --------------------
-["bookposition/atomic/rnbqkb1r/pp1p2pp/2p1pp1n/8/3P2P1/2N2N2/PPP1PP1P/R1BQKB1R w KQkq - 0 5","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkb1r/pp1p2pp/2p1pp1n/8/3P2P1/2N2N2/PPP1PP1P/R1BQKB1R w KQkq - 0 5\",\n  \"moves\": {\n    \"e4\": {\n      \"san\": \"e4\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rnbqkb1r/pp1pp1pp/2p2p1n/8/6P1/2N2N2/PPPPPP1P/R1BQKB1R w KQkq - 0 4","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkb1r/pp1pp1pp/2p2p1n/8/6P1/2N2N2/PPPPPP1P/R1BQKB1R w KQkq - 0 4\",\n  \"moves\": {\n    \"d4\": {\n      \"san\": \"d4\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\",\n  \"moves\": {\n    \"Nf3\": {\n      \"san\": \"Nf3\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rnbqkbnr/ppppp1pp/5p2/8/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq - 1 2","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/ppppp1pp/5p2/8/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq - 1 2\",\n  \"moves\": {\n    \"Nh6\": {\n      \"san\": \"Nh6\",\n      \"rating\": 10\n    },\n    \"c6\": {\n      \"san\": \"c6\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rnbqkb1r/ppppp1pp/5p1n/8/6P1/2N2N2/PPPPPP1P/R1BQKB1R b KQkq - 0 3","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkb1r/ppppp1pp/5p1n/8/6P1/2N2N2/PPPPPP1P/R1BQKB1R b KQkq - 0 3\",\n  \"moves\": {\n    \"c6\": {\n      \"san\": \"c6\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rn1qkbnr/pp2p1pp/2pp4/8/3PP1b1/2N2P2/PPP3PP/R1BQKB1R b KQkq - 0 6","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rn1qkbnr/pp2p1pp/2pp4/8/3PP1b1/2N2P2/PPP3PP/R1BQKB1R b KQkq - 0 6\",\n  \"moves\": {\n    \"Nf6\": {\n      \"san\": \"Nf6\",\n      \"rating\": 1\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rnbqkbnr/pp2p1pp/2pp1p2/6N1/3P4/2N5/PPP1PPPP/R1BQKB1R b KQkq - 1 4","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/pp2p1pp/2pp1p2/6N1/3P4/2N5/PPP1PPPP/R1BQKB1R b KQkq - 1 4\",\n  \"moves\": {\n    \"fxg5\": {\n      \"san\": \"fxg5\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rnbqkbnr/pp2p1pp/2pp4/8/3P4/2N5/PPP1PPPP/R1BQKB1R w KQkq - 0 5","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/pp2p1pp/2pp4/8/3P4/2N5/PPP1PPPP/R1BQKB1R w KQkq - 0 5\",\n  \"moves\": {\n    \"e4\": {\n      \"san\": \"e4\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rnbqkbnr/pp2p1pp/2pp4/8/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/pp2p1pp/2pp4/8/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5\",\n  \"moves\": {\n    \"Bg4\": {\n      \"san\": \"Bg4\",\n      \"rating\": 10\n    }\n  }\n}"]
---------------------
-["bookposition/atomic/rn1qkb1r/pp2p1pp/2pp1n2/8/3PP1b1/2N2P2/PPP3PP/R1BQKB1R w KQkq - 1 7","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rn1qkb1r/pp2p1pp/2pp1n2/8/3PP1b1/2N2P2/PPP3PP/R1BQKB1R w KQkq - 1 7\",\n  \"moves\": {\n    \"e5\": {\n      \"san\": \"e5\",\n      \"rating\": 10\n    }\n  }\n}"]
+["bookposition/atomic/rnbqkbnr/ppppp1pp/5p2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2","{\n  \"variant\": \"atomic\",\n  \"fen\": \"rnbqkbnr/ppppp1pp/5p2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2\",\n  \"moves\": {\n    \"e3\": {\n      \"san\": \"e3\",\n      \"rating\": 10\n    }\n  }\n}"]
